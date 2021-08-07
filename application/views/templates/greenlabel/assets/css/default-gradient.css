@@ -1,0 +1,6 @@
+.gradient-color { background: #ec880e; background: linear-gradient(top, #ec880e, #ec880e); background: -moz-linear-gradient(top, #ec880e, #ec880e); background : -ms-linear-gradient(top, #ec880e, #ec880e); background : -webkit-gradient(linear, left top, left bottom, from(#ec880e), to(#ec880e)); border : solid 1px #850E01;box-shadow : 2px 2px 3px #661313;}
+.mine-color, .btn-inner-search { background-color: #ec880e; }
+.button-more::before { border-color: transparent #d83c3c;}
+.btn-go-search:active,.btn-go-search:focus, .btn-go-search:hover, .button-more:hover, .button-more:focus, .button-more:hover { background-color: #c42f2f; }
+div.filter-sidebar .title, .title.alone {border-bottom: 3px solid #d83c3c;}
+div.filter-sidebar .title span, .title.alone span {border-bottom : 3px solid #8c0707; }
